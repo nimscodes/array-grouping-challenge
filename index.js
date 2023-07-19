@@ -40,10 +40,7 @@ function groupArrayElements(arr, N) {
   
     return result;
   }
-  
-console.log(
-groupArrayElements(
-    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-    3
-  )
-);
+
+
+// Call the function and log it to the terminal console
+console.log(groupArrayElements([1, 2, 3, 4, 5 ],3 ));
